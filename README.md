@@ -24,14 +24,14 @@ A Java-based console application to manage cinema operations including movie ses
 
 ## Project Structure
 project-cinema-app/
- console/ # Console user interface layer
- exception/ # Custom exception classes
- logs/ # Application log files
- models/ # Domain entities (Movie, Session, Ticket, etc.)
- repository/ # Data storage and retrieval logic
- service/ # Business logic layer
- validation/ # Input validation utilities
- out/ # Compiled output files
+- console/ # Console user interface layer
+- exception/ # Custom exception classes
+- logs/ # Application log files
+- models/ # Domain entities (Movie, Session, Ticket, etc.)
+- repository/ # Data storage and retrieval logic
+- service/ # Business logic layer
+- validation/ # Input validation utilities
+- out/ # Compiled output files
 
 ## Technologies
 

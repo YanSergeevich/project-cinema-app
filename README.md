@@ -23,7 +23,7 @@ A Java-based console application to manage cinema operations including movie ses
 - **SQL Database** – Data persistence and query management
 
 ## Project Structure
-project-cinema-app/
+**project-cinema-app**/
 - **console**/ Console user interface layer
 - **exception**/ Custom exception classes
 - **logs**/ Application log files
